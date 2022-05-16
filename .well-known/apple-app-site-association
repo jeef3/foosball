@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "AQ6DDP9M8V.nz.co.kultivator.foosballApp",
+        "paths": [ "/foosball/*"]
+      }
+    ]
+  }
+}
